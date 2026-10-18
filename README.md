@@ -1,26 +1,25 @@
 # Alejandro Jiménez Calderón
 
-Economista · MSc en Inteligencia Artificial
+Economist · MSc in Artificial Intelligence
 
-Desarrollo modelos computacionales y herramientas de datos para analizar registros,
-detectar inconsistencias y apoyar decisiones.
+I develop computational models and data tools to analyze records, identify
+inconsistencies and support decisions.
 
-## Áreas de trabajo
+## Areas of work
 
-- **Consistencia de registros:** reglas explícitas, representaciones latentes y
-  análisis de patrones.
-- **Ingeniería de datos:** ingesta, validación, transformación y reconciliación
-  entre fuentes.
-- **Analítica reproducible:** resultados trazables al código, los datos y la
-  configuración que los producen.
+- **Record consistency:** explicit rules, latent representations and pattern
+  analysis.
+- **Data engineering:** ingestion, validation, transformation and reconciliation
+  across sources.
+- **Reproducible analytics:** results traceable to the code, data and configuration
+  used to produce them.
 
-## Tecnologías
+## Technologies
 
-Python, SQL, PostgreSQL, PyTorch, Pydantic y FastAPI.
+Python, SQL, PostgreSQL, PyTorch, Pydantic and FastAPI.
 
-## Criterio de trabajo
+## Working approach
 
-Documento los supuestos, las decisiones de diseño y los límites de cada resultado.
-Distingo una inconsistencia de una conclusión sobre incumplimiento, y el
-funcionamiento de una demostración con datos sintéticos del desempeño observado en
-datos reales.
+I document assumptions, design decisions and the limitations of each result.
+I distinguish record inconsistencies from findings of non-compliance, and
+synthetic-data demonstrations from performance measured on real-world data.
