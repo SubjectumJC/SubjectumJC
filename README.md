@@ -23,16 +23,28 @@ model evaluation, application integration and reproducible reporting.
 | Oct 2024–Jul 2025 | Research and analytical support | Fiscalía General de la Nación — CTI, Colombia |
 | Aug 2022–Jul 2024 | Risk analysis and audit support | DIAN, Colombia |
 
-## Engineering and evaluation
+## End-to-end systems work
 
-I use data contracts and lineage, versioned configurations, automated tests and
-continuous integration. I document assumptions and limitations, and distinguish
-experimental results from operational performance. Model outputs support human
-assessment; they are not determinations of non-compliance.
+My work spans problem definition, data preparation, modeling and evaluation, APIs
+and application interfaces, and deployment configuration. I connect model code
+with supporting services for identity, artifact management, delivery, monitoring
+and diagnosis.
 
-## Core tools
+I document data contracts, integration requirements, assumptions and limitations.
+Versioned configurations, traceable artifacts, automated tests and CI support
+repeatable verification. I distinguish experimental results from operational
+performance; model outputs support human review.
 
-Python · SQL · PostgreSQL · scikit-learn · PyTorch · FastAPI · Docker · GitHub Actions
+## Tools across the lifecycle
+
+| Area | Selected tools | Purpose |
+| --- | --- | --- |
+| Data and machine learning | Python, SQL, PostgreSQL, scikit-learn, PyTorch, PyTorch Geometric, SHAP | Data preparation, modeling and interpretation |
+| APIs and services | FastAPI, Redis | Integration between data, models and applications |
+| Quality and reproducibility | uv, pytest, Ruff, mypy, pre-commit, Locust | Environments, automated checks and load testing |
+| Containers and orchestration | Docker, Docker Compose, Kubernetes, K3s, Helm | Packaging and deployment configuration |
+| Delivery and artifacts | GitHub Actions, Argo CD, Harbor, Sonatype Nexus Repository | CI/CD workflows and artifact management |
+| Security and observability | Keycloak, Cosign, Trivy, Prometheus, Grafana, Loki | Identity, artifact checks, metrics and logs |
 
 ## Education
 
